@@ -1,3 +1,4 @@
-document.getElementById("click-btn").addEventListener("click", function () {
-    document.getElementById("output").textContent = "Спасибо за клик!";
-  });
+// Можно добавить анимации или обработчики событий
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Добро пожаловать на сайт Anterovka!");
+});
